@@ -41,8 +41,10 @@ hobbies: [
 
 <br/>
 
+<!-- 
 ### 🧠 My Understanding about Data Structure
 ![Leetcode Stats](https://leetcard.jacoblin.cool/goodgoed)
+ -->
 
 <!--
 **goodgoed/goodgoed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
